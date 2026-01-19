@@ -245,12 +245,6 @@ sklearn-diagnose **never**:
 - Mutates your training data
 - Refits or retrains models
 
-```python
-# Internal safety check
-from sklearn.utils.validation import check_is_fitted
-check_is_fitted(estimator)  # Fails fast if not fitted
-```
-
 ### Validation Set vs Cross-Validation
 
 sklearn-diagnose follows strict rules:
